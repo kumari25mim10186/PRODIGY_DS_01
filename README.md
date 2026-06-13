@@ -33,16 +33,15 @@ Population-Distribution-Analysis/
 ├── data/
 │   └── population_data.csv
 │
-├── outputs/
-│   ├── gender_bar_chart.png
-│   └── age_histogram.png
+├── outputs screenshot
+│   
 │
 ├── src/
-│   └── visualization.py
+│   └── main03.py
 │
 ├── requirements.txt
 ├── README.md
-└── LICENSE
+
 ```
 
 ---
